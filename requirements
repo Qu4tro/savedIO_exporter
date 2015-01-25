@@ -1,0 +1,4 @@
+BeautifulSoup==3.2.1
+click==3.3
+coloredlogs==0.8
+mechanize==0.2.5
