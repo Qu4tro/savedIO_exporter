@@ -1,4 +1,4 @@
-This is now, **NOT THE WAY IT SHOULD BE DONE**. They have an API, which can and should be used to redo this all script. If you still need it, it should work, hopefully.
+This is now, **NOT THE WAY IT SHOULD BE DONE**. They have an API, which can and should be used to redo this script. If you still need it, it should work, hopefully.
 
     Usage: exporter.py [OPTIONS]
 
